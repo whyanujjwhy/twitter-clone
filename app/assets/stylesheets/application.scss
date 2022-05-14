@@ -19,7 +19,7 @@
   color: blue;
 }
 .navbar-brand .title {
-   color: black;
+   color: white;
  }
 
  //round img
@@ -30,6 +30,6 @@
    }
  }
 
- .notifications:not(:last-child) {
+ .notification:not(:last-child) {
    margin-bottom: 0;
  }
